@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "local-concord-383708",
+  "private_key_id": "e147e26b4de2fceb6c71768e68f51d880f84f48f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9pwyg+fwea7cP\ndyjXQrtiOiOS+gg0KxDsCOUTJQTEjzboE1Hw2Ld0nXOXx1zTEZO9ICnGcOHM1u95\n32QveenOQhnnebdJuAywAfTDaIo7P0NO7drevtxSXjJnhtiQbqYhl4LX7SS/tzxc\nEvDlI1uWyg1vWhMSJtB3qu+KK0XqtIwgVgxD7xk8Q8sodFiqhSrCm15feRxAfTSK\neznhzTMSHD6eJvQ5mzkHbPnqJjb1yps5d6a/BvAd5pU00yGdMdJo8+u8i6pS/Jce\nV4xsXFBMLIsnBwyPKVhj5IvWXR0o3MeUWQjrBekAfa+m7GGROStSR8usRusTypHn\nUaG8SRR9AgMBAAECggEAEoAOKlHYdzs4s0iDcmQvFUjomXjMfhJJZ00C05hD28zA\npWjlEGKDmtuVIBQxiOFpEQTnLlVqoWnCGJhjFIKG/TjTgBIOgCF1E2JNdxZmjZsB\nPNzVAe+KXHqV3iV4ULaKfDJkcB3Q/Oap+61ZVHDbiV0SbG9T9uxUX6gMD+Viv59M\nIpSq5pWHTbTuMDcsIjnFZrKNIpx/iTPt3+MfneocMCPPbjIcmPC0Bv978R6p0Owz\njr7wgwMPLsbyEYKlLXSY61HJbexXd2YIafn8Bn9Ch2iMMZPyYB+SelJxLwn9hV6j\njzCZBsWdWU+71inaP7RSiDMQPkKFWzdYurw5Z/U7fQKBgQDeGWe7NuIUjGfhn0sC\nuUUG2XwakW+zXu0bM3BgnyvvGbjCYSk8Xh1wKCXCg3tyu95Y4mEK8zz704TcVP70\nRxUTYeLNlGMTO2eXDpX28etwyH8IjJ8sa8XMX9nEirfhsTTDexZ5GqzqkwLd/caz\nHjYHXUPC8WJXuwCXvZSnCTuB9wKBgQDamceI8SnGNY5PwwKjsQYr+xBLkRrSphRH\nzFSrVBmXz91GlE4N6NBbNEVL9Zlj23+4obXFuU5KjStt0GIlFVSXoLoIWDhkU7Uz\n9TsyZAFFHmdoz1aJ107Hua8ZFfCSghnxhnQB2AKnk1uecuZ5zzXTkXuq0HxloJly\nQEji/HfAKwKBgEZZt8DWbqBhpRoTkfgH5XR4+VWVEdO4UtSV45fHc2wmMp7nld84\nVIzNOsC1UyoRlimDc4e7amq+IkyEY8nOpj9gdy31Pbi+zV5M0XXKRXCRIaP8nwK8\nFIhbKCiYZAyKTBNLbt/ncjRPYs4cb48XF7gXc7pRKXxukI6AD5ElXIMbAoGBAK88\nRzAH4yz5EbPu59bAuenXwSBSmeXzLJ7Btb4CFOIVx5Qkns2XrC7wn/xcTTI3axNe\nzpBKE/C/aekF+ycvCjjipz65ObtzPvb/xwyGDl6SGON0EjM9XfHNcAf0Bn3rvVBY\nL/aqarZa8j76bLeI2+VV4oTzzETLkTZ9QfBz4qsxAoGAM27Vomu8XhLA06HcWqbn\n/vVb8Ft3X/iVBhP/FejsgHUEUWX8aiTYGPEmIOUapGaBQGTLSwy3dONIyx5hR1me\nE5MwlAqk0bt2dpg0P6xO1dlIqIR164lnnSLi5uZqJOFuaHod/TrMFznjd9G6ZRpP\nEyMjMtFmFEsQcxLogiTDY9A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "medispot-cz@local-concord-383708.iam.gserviceaccount.com",
+  "client_id": "117874961563037672931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medispot-cz%40local-concord-383708.iam.gserviceaccount.com"
+}
